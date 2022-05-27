@@ -1,0 +1,15 @@
+# typescript artifacts
+/node_modules
+/out
+
+*.tsbuildinfo
+
+# roblox-ts required
+/include
+
+# build artifacts
+/game.rbxlx
+
+# roblox studio lock files
+/*.rbxlx.lock
+/*.rbxl.lock

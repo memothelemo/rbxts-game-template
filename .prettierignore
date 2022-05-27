@@ -1,0 +1,7 @@
+*.lua
+*.gitignore
+*.editorconfig
+*.log
+
+/yarn.lock
+/.prettierignore
